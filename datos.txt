@@ -1,0 +1,47 @@
+A continuación se presentan algunas recomendaciones para reducir la cantidad de víctimas fatales en accidentes de tránsito:
+
+Aumentar la educación vial para mejorar la conciencia de los conductores y peatones.
+Implementar medidas de seguridad vial, como cámaras de seguridad y límites de velocidad más estrictos.
+Promover el uso del transporte público y el ciclismo para reducir la cantidad de vehículos en las calles.
+
+Algunos factores que pueden contribuir a estos resultados son los siguientes:
+
+* El diseño de las carreteras y las calles, que puede dificultar que los peatones y los conductores se vean entre sí.
+* Las velocidades de los vehículos, que pueden aumentar el riesgo de lesiones en caso de accidente.
+* El consumo de alcohol y drogas, que puede afectar la capacidad de los conductores para conducir de forma segura.
+
+Las autoridades de seguridad vial pueden tomar medidas para reducir el número de accidentes de tráfico, incluyendo:
+
+* Mejorar el diseño de las carreteras y las calles para mejorar la visibilidad de los peatones y los conductores.
+* Limitar las velocidades de los vehículos.
+* Educar a los conductores sobre los riesgos de conducir bajo los efectos del alcohol o las drogas.
+
+
+
+aqui hay un detalle describiendo cada tipo de involucrado para revisar el analisis realizado:
+
+
+
+PEATON: Víctima distinta de cualquier ocupante de un vehículo, ya sea un conductor/a o un pasajero/a. Se incluyen los ocupantes o personas que empujan o arrastran un coche de bebé o una silla de ruedas o cualquier otro vehículo sin motor de pequeñas dimensiones. Se incluyen también las personas que caminan empujando una bicicleta o un ciclomotor.
+
+MOTO: Vehículo a motor no carrozado que incluye motocicleta, ciclomotor y cuatriciclo.
+
+AUTO: Vehículo a motor destinado al transporte de personas, diferente de los motovehículos, y que tenga hasta nueve plazas (incluyendo al asiento del conductor) (Sedan, SUV, coupe, etc)
+
+CARGAS: Vehículo a motor destinado al transporte de cargas, incluye camiones pesados (con o sin acoplado o semirremolque, etc., camión de recolección de residuos) y livianos (utilitarios, furgonetas, pick-ups, camioneta con caja de carga).
+
+BICICLETA: Vehículo con al menos dos ruedas, que generalmente es accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas. Incluye bicicletas de pedaleo asistido.
+
+PASAJEROS: Personas lesionadas que se encuentran dentro, descendiendo o ascendiendo de las unidades de autotrasporte público de pasajeros/as y ómnibus de larga distancia.
+
+MOVIL: Vehículos de emergencia: móviles policiales, ambulancias, autobombas. 
+
+OTRO: otro vehiculo.
+
+SD: sin dato
+
+OBJETO FIJO: Colisión contra objetos inmóviles fijados de manera permanente o semipermanente (columna, árbol, semáforo, etc.) o pérdidas de equilibrio de vehículos de dos ruedas que desencadenen la caída de sus ocupantes.
+
+TREN: Equipo móvil que se desplaza exclusivamente sobre rieles.
+
+MULTIPLE: cuando participan más de un vehículo como contraparte de la víctima.
