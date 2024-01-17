@@ -99,7 +99,7 @@ Los resultados de los KPIs muestran que se ha logrado alcanzar el objetivo en un
 
 En el período 2016-2021, se logró:
 
-- reducir la tasa de homicidios en siniestros viales en CABA en un total de 6 veces, lo que representa un 50% del objetivo.
+**1. Reducir la tasa de homicidios en siniestros viales en CABA en un total de 6 veces, lo que representa un 50% del objetivo.**
 
 ![](images/KPI01.png)
 Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales fueron:
@@ -109,7 +109,7 @@ Los períodos en los que se logró reducir la tasa de homicidios en siniestros v
 * 1° semestre de 2020 -34,13%
 * 2° semestre de 2021 -21,22%
 
-- reducir la cantidad de accidentes mortales de motociclistas en CABA en un total de 3 veces, lo que representa un 60% del objetivo.
+**2. Reducir la cantidad de accidentes mortales de motociclistas en CABA en un total de 3 veces, lo que representa un 60% del objetivo.**
 
 ![](images/KPI02.png)
 Los períodos en los que se logró reducir la cantidad de accidentes mortales de motociclistas fueron:
@@ -118,7 +118,7 @@ Los períodos en los que se logró reducir la cantidad de accidentes mortales de
 * 2019: -12.73%
 * 2020: -43.75%
 
-- Reducir la tasa de homicidios en siniestros viales en avenidas de CABA en un total de 2 veces, lo que representa el 40% del objetivo.
+**3. Reducir la tasa de homicidios en siniestros viales en avenidas de CABA en un total de 2 veces, lo que representa el 40% del objetivo.**
 
 ![](images/KPI03.png)
 Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales en avenidas fueron:
