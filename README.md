@@ -43,9 +43,31 @@ El EDA realizado sobre el conjunto de datos de accidentes de tránsito en la Ciu
 Los principales hallazgos del EDA son los siguientes:
 
 * **Los accidentes de tránsito son más comunes en las primeras horas de la mañana, tanto en avenidas como en calles.** Esto se debe a una serie de factores, como el tráfico intenso, la fatiga de los conductores y la distracción.
-* **Los accidentes entre vehículos motorizados y peatones son los más comunes, representando el 37,37% del total.** Los peatones son los usuarios más vulnerables de la carretera y los que más probabilidades tienen de sufrir lesiones o la muerte en un accidente.
+* 
+![](images/Distribucion24hs.png)
+
+El gráfico anterior muestra que la distribución de accidentes por hora del día en CABA es desigual. La mayor cantidad de accidentes ocurre entre las 5:00 y las 9:00, con un total de 183 accidentes en un lapso de 5 horas.
+
+Los accidentes también ocurren con frecuencia entre las 14:00 y las 22:00, con un total de 264 accidentes en un lapso de 9 horas.
+
+- La mayor concentración de accidentes ocurre entre las 5:00 y las 9:00, lo que representa el 26,33% de los accidentes.
+- Las horas entre las 5:00 y las 9:00 tienen un total del 22,07% de los accidentes.
+- Las horas entre las 14:00 y las 22:00 tienen un total del 37,99% de los accidentes.
+- Las horas entre las 10:00 y 13:00 tienen un total del 15,40% de los accidentes.
+
+Los accidentes son menos comunes durante las horas del amanecer y alrededor del medio día, con un total de 248 accidentes en un total de 10 horas. En conjunto, estos accidentes representan el 37,47% de los accidentes.
+
+* **Los accidentes entre vehículos motorizados son los mas frecuentes, representando el 44,54% del total. Seguido por los accidentes entre peatones y vehículos motorizados  representando el 37,37% del total.**
+
+![](images/DistribucionInvolucrados.png)
+
 * **Las motocicletas son los vehículos más involucrados en accidentes viales, con una participación del 42,75%.** Esto se debe a que las motocicletas son más vulnerables a las colisiones y a que los conductores de motocicletas suelen tener menos experiencia que los conductores de otros vehículos.
+
+![](images/DistribucionVictimas.png)
+
 * **La comuna 1 tiene la mayor cantidad de accidentes, con un total de 90.** Las comunas 4, 8, 9 y 15 también tienen una cantidad significativa de accidentes.
+
+![](images/HH-COMUNA.png)
 
 **Implicaciones para la seguridad vial**
 
