@@ -95,6 +95,38 @@ Los tres KPIs presentados en este documento se centran en la seguridad vial en l
 
 Los resultados de los KPIs muestran que se ha logrado alcanzar el objetivo en un total de 6, 3 y 2 ocasiones, respectivamente. Sin embargo, es importante señalar que los resultados no son consistentes en el tiempo, y que se han observado tanto aumentos como disminuciones en los indicadores.
 
+**Resultados**
+
+En el período 2016-2021, se logró:
+
+- reducir la tasa de homicidios en siniestros viales en CABA en un total de 6 veces, lo que representa un 50% del objetivo.
+
+![](images/KPI01.png)
+Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales fueron:
+* 1° semestre de 2017 no se alcanzó el objetivo pero estuvo muy proximo con una reducción del 9,85%
+* 1° semestre de 2019 -29,97%
+* 2° semestre de 1019 -12,96%
+* 1° semestre de 2020 -34,13%
+* 2° semestre de 2021 -21,22%
+
+- reducir la cantidad de accidentes mortales de motociclistas en CABA en un total de 3 veces, lo que representa un 60% del objetivo.
+
+![](images/KPI02.png)
+Los períodos en los que se logró reducir la cantidad de accidentes mortales de motociclistas fueron:
+
+* 2017: -16.67%
+* 2019: -12.73%
+* 2020: -43.75%
+
+- Reducir la tasa de homicidios en siniestros viales en avenidas de CABA en un total de 2 veces, lo que representa el 40% del objetivo.
+
+![](images/KPI03.png)
+Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales en avenidas fueron:
+
+* 2017: -12.03%
+* 2019: -29.47%
+
+
 **Observaciones**
 
 El año 2020 se destaca por la reducción más significativa de la cantidad de accidentes mortales de motociclistas, con una disminución del 43.75%. Esta reducción se debe a la implementación de medidas de seguridad vial específicas, como la prohibición de los ciclomotores en el CABA y AMBA, la implementación de carriles exclusivos para motos y la instalación de semáforos y reductores de velocidad en zonas conflictivas.
