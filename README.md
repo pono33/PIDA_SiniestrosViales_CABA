@@ -67,7 +67,7 @@ Los accidentes son menos comunes durante las horas del amanecer y alrededor del 
 
 * **La comuna 1 tiene la mayor cantidad de accidentes, con un total de 90.** Las comunas 4, 8, 9 y 15 también tienen una cantidad significativa de accidentes.
 
-![](images/HH-COMUNA.png)
+![](images/AccidentesPorComuna.png)
 
 **Implicaciones para la seguridad vial**
 
