@@ -59,4 +59,34 @@ Los siguientes son algunos consejos para futuros análisis de los datos de accid
 * **Se podría analizar la información sobre los conductores involucrados en los accidentes.** Esto podría ayudar a identificar factores de riesgo específicos, como el consumo de alcohol o drogas.
 * **Se podría utilizar información de seguimiento para evaluar la eficacia de las medidas de seguridad vial.** Esto podría ayudar a garantizar que las medidas estén teniendo el efecto deseado.
 
+---
 
+# **KPIs**
+
+Los KPIs, o indicadores clave de rendimiento, son medidas utilizadas para evaluar el progreso hacia los objetivos. En el contexto de la seguridad vial, los KPIs pueden utilizarse para medir la efectividad de las políticas y medidas implementadas para reducir la siniestralidad vial.
+
+Los tres KPIs presentados en este documento se centran en la seguridad vial en la Ciudad Autónoma de Buenos Aires (CABA). Los objetivos de estos KPIs son:
+
+* Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
+* Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en comparación con el año anterior.
+* Reducir la tasa de homicidios en siniestros viales en avenidas en el último año, en comparación con el año anterior, con un índice de reducción superior al 10%.
+
+Los resultados de los KPIs muestran que se ha logrado alcanzar el objetivo en un total de 6, 3 y 2 ocasiones, respectivamente. Sin embargo, es importante señalar que los resultados no son consistentes en el tiempo, y que se han observado tanto aumentos como disminuciones en los indicadores.
+
+**Observaciones**
+
+El año 2020 se destaca por la reducción más significativa de la cantidad de accidentes mortales de motociclistas, con una disminución del 43.75%. Esta reducción se debe a la implementación de medidas de seguridad vial específicas, como la prohibición de los ciclomotores en el CABA y AMBA, la implementación de carriles exclusivos para motos y la instalación de semáforos y reductores de velocidad en zonas conflictivas.
+
+Por otro lado, el año 2021 se destaca por el aumento más significativo de la cantidad de accidentes mortales de motociclistas, con un incremento del 70.37%. Este aumento se debe a la relajación de las medidas de seguridad vial implementadas durante la pandemia de COVID-19, como la reducción de los controles de alcoholemia y velocidad.
+
+En general, los resultados de los KPIs muestran que se han logrado avances en la seguridad vial en CABA. Sin embargo, es necesario continuar trabajando para mejorar los resultados y alcanzar los objetivos establecidos.
+
+**Recomendaciones**
+
+Para mejorar los resultados de los KPIs, se recomienda:
+
+* Fortalecer el cumplimiento de las normas de tránsito, en particular las relacionadas con el uso del cinturón de seguridad, el casco, el alcohol y la velocidad.
+* Invertir en la mejora de la infraestructura vial, especialmente en las zonas con mayor siniestralidad.
+* Desarrollar programas de educación vial para todos los usuarios de la vía pública.
+
+La implementación de estas recomendaciones contribuiría a reducir la siniestralidad vial en CABA y mejorar la seguridad de todos los ciudadanos.
