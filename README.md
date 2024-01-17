@@ -24,7 +24,7 @@ El proyecto "PIDA SiniestrosViales CABA" es el segundo de los proyectos integrad
     **NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf:** información complementaria.
 
 _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados por Henry para el análisis, mientras que la subcarpeta "procesados" contiene los dataframes resultantes del proceso EDA y ETL._
-- **.gitignore:** File to specify untracked files and directories that Git should ignore.
+- **.gitignore:** Archivo para especificar archivos y directorios no rastreados que Git debería ignorar.
 
 - **EDA.ipynb:** Jupyter Notebook para Exploratory Data Analysis.
 
