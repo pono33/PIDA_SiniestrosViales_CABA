@@ -67,7 +67,7 @@ Los accidentes son menos comunes durante las horas del amanecer y alrededor del 
 
 * **La comuna 1 tiene la mayor cantidad de accidentes, con un total de 90.** Las comunas 4, 8, 9 y 15 también tienen una cantidad significativa de accidentes.
 
-![](images/HH-COMUNA.png)
+![](images/AccidentesPorComuna.png)
 
 **Implicaciones para la seguridad vial**
 
@@ -94,6 +94,38 @@ Los tres KPIs presentados en este documento se centran en la seguridad vial en l
 * Reducir la tasa de homicidios en siniestros viales en avenidas en el último año, en comparación con el año anterior, con un índice de reducción superior al 10%.
 
 Los resultados de los KPIs muestran que se ha logrado alcanzar el objetivo en un total de 6, 3 y 2 ocasiones, respectivamente. Sin embargo, es importante señalar que los resultados no son consistentes en el tiempo, y que se han observado tanto aumentos como disminuciones en los indicadores.
+
+**Resultados**
+
+En el período 2016-2021, se logró:
+
+**1. Reducir la tasa de homicidios en siniestros viales en CABA en un total de 6 veces, lo que representa un 50% del objetivo.**
+
+![](images/KPI01.png)
+Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales fueron:
+* 1° semestre de 2017 no se alcanzó el objetivo pero estuvo muy proximo con una reducción del 9,85%
+* 1° semestre de 2019 -29,97%
+* 2° semestre de 1019 -12,96%
+* 1° semestre de 2020 -34,13%
+* 2° semestre de 2021 -21,22%
+
+**2. Reducir la cantidad de accidentes mortales de motociclistas en CABA en un total de 3 veces, lo que representa un 60% del objetivo.**
+
+![](images/KPI02.png)
+Los períodos en los que se logró reducir la cantidad de accidentes mortales de motociclistas fueron:
+
+* 2017: -16.67%
+* 2019: -12.73%
+* 2020: -43.75%
+
+**3. Reducir la tasa de homicidios en siniestros viales en avenidas de CABA en un total de 2 veces, lo que representa el 40% del objetivo.**
+
+![](images/KPI03.png)
+Los períodos en los que se logró reducir la tasa de homicidios en siniestros viales en avenidas fueron:
+
+* 2017: -12.03%
+* 2019: -29.47%
+
 
 **Observaciones**
 
