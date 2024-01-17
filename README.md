@@ -32,3 +32,83 @@ _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados po
 
 - **KPIs.ipynb:** Jupyter Notebook para el cálculo de 3 indicadores clave de desempeño sobre accidentes en CABA.
 
+---
+
+# **EDA**
+
+El EDA realizado sobre el conjunto de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires (CABA) proporciona información valiosa sobre las tendencias y factores que contribuyen a estos accidentes.
+
+**Principales hallazgos**
+
+Los principales hallazgos del EDA son los siguientes:
+
+* **Los accidentes de tránsito son más comunes en las primeras horas de la mañana, tanto en avenidas como en calles.** Esto se debe a una serie de factores, como el tráfico intenso, la fatiga de los conductores y la distracción.
+* 
+![](images/Distribucion24hs.png)
+
+El gráfico anterior muestra que la distribución de accidentes por hora del día en CABA es desigual. La mayor cantidad de accidentes ocurre entre las 5:00 y las 9:00, con un total de 183 accidentes en un lapso de 5 horas.
+
+Los accidentes también ocurren con frecuencia entre las 14:00 y las 22:00, con un total de 264 accidentes en un lapso de 9 horas.
+
+- La mayor concentración de accidentes ocurre entre las 5:00 y las 9:00, lo que representa el 26,33% de los accidentes.
+- Las horas entre las 5:00 y las 9:00 tienen un total del 22,07% de los accidentes.
+- Las horas entre las 14:00 y las 22:00 tienen un total del 37,99% de los accidentes.
+- Las horas entre las 10:00 y 13:00 tienen un total del 15,40% de los accidentes.
+
+Los accidentes son menos comunes durante las horas del amanecer y alrededor del medio día, con un total de 248 accidentes en un total de 10 horas. En conjunto, estos accidentes representan el 37,47% de los accidentes.
+
+* **Los accidentes entre vehículos motorizados son los mas frecuentes, representando el 44,54% del total. Seguido por los accidentes entre peatones y vehículos motorizados  representando el 37,37% del total.**
+
+![](images/DistribucionInvolucrados.png)
+
+* **Las motocicletas son los vehículos más involucrados en accidentes viales, con una participación del 42,75%.** Esto se debe a que las motocicletas son más vulnerables a las colisiones y a que los conductores de motocicletas suelen tener menos experiencia que los conductores de otros vehículos.
+
+![](images/DistribucionVictimas.png)
+
+* **La comuna 1 tiene la mayor cantidad de accidentes, con un total de 90.** Las comunas 4, 8, 9 y 15 también tienen una cantidad significativa de accidentes.
+
+![](images/HH-COMUNA.png)
+
+**Implicaciones para la seguridad vial**
+
+Los hallazgos del EDA tienen implicaciones importantes para la seguridad vial. Por ejemplo, sugieren que es importante tomar medidas para reducir el tráfico en las primeras horas de la mañana, para aumentar la concienciación sobre los peligros de los peatones y las motocicletas, y para mejorar la seguridad de las avenidas.
+
+**Recomendaciones para futuros análisis**
+
+Los siguientes son algunos consejos para futuros análisis de los datos de accidentes de tránsito:
+
+* **Se podría agregar información sobre las condiciones climáticas y el estado de la carretera.** Esto podría ayudar a comprender mejor los factores que contribuyen a los accidentes.
+* **Se podría analizar la información sobre los conductores involucrados en los accidentes.** Esto podría ayudar a identificar factores de riesgo específicos, como el consumo de alcohol o drogas.
+* **Se podría utilizar información de seguimiento para evaluar la eficacia de las medidas de seguridad vial.** Esto podría ayudar a garantizar que las medidas estén teniendo el efecto deseado.
+
+---
+
+# **KPIs**
+
+Los KPIs, o indicadores clave de rendimiento, son medidas utilizadas para evaluar el progreso hacia los objetivos. En el contexto de la seguridad vial, los KPIs pueden utilizarse para medir la efectividad de las políticas y medidas implementadas para reducir la siniestralidad vial.
+
+Los tres KPIs presentados en este documento se centran en la seguridad vial en la Ciudad Autónoma de Buenos Aires (CABA). Los objetivos de estos KPIs son:
+
+* Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
+* Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en comparación con el año anterior.
+* Reducir la tasa de homicidios en siniestros viales en avenidas en el último año, en comparación con el año anterior, con un índice de reducción superior al 10%.
+
+Los resultados de los KPIs muestran que se ha logrado alcanzar el objetivo en un total de 6, 3 y 2 ocasiones, respectivamente. Sin embargo, es importante señalar que los resultados no son consistentes en el tiempo, y que se han observado tanto aumentos como disminuciones en los indicadores.
+
+**Observaciones**
+
+El año 2020 se destaca por la reducción más significativa de la cantidad de accidentes mortales de motociclistas, con una disminución del 43.75%. Esta reducción se debe a la implementación de medidas de seguridad vial específicas, como la prohibición de los ciclomotores en el CABA y AMBA, la implementación de carriles exclusivos para motos y la instalación de semáforos y reductores de velocidad en zonas conflictivas.
+
+Por otro lado, el año 2021 se destaca por el aumento más significativo de la cantidad de accidentes mortales de motociclistas, con un incremento del 70.37%. Este aumento se debe a la relajación de las medidas de seguridad vial implementadas durante la pandemia de COVID-19, como la reducción de los controles de alcoholemia y velocidad.
+
+En general, los resultados de los KPIs muestran que se han logrado avances en la seguridad vial en CABA. Sin embargo, es necesario continuar trabajando para mejorar los resultados y alcanzar los objetivos establecidos.
+
+**Recomendaciones**
+
+Para mejorar los resultados de los KPIs, se recomienda:
+
+* Fortalecer el cumplimiento de las normas de tránsito, en particular las relacionadas con el uso del cinturón de seguridad, el casco, el alcohol y la velocidad.
+* Invertir en la mejora de la infraestructura vial, especialmente en las zonas con mayor siniestralidad.
+* Desarrollar programas de educación vial para todos los usuarios de la vía pública.
+
+La implementación de estas recomendaciones contribuiría a reducir la siniestralidad vial en CABA y mejorar la seguridad de todos los ciudadanos.
