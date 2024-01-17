@@ -32,8 +32,9 @@ _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados po
 
 - **KPIs.ipynb:** Jupyter Notebook para el cálculo de 3 indicadores clave de desempeño sobre accidentes en CABA.
 
+---
 
-**EDA**
+# **EDA**
 
 El EDA realizado sobre el conjunto de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires (CABA) proporciona información valiosa sobre las tendencias y factores que contribuyen a estos accidentes.
 
