@@ -1,7 +1,23 @@
 <h1 align=center>PIDA SiniestrosViales CABA</h1>
 
+![](images/MovTransp/PRESENTACION.JPG)
 
-El proyecto "PIDA SiniestrosViales CABA" es el segundo de los proyectos integradores finales del Bootcamp de Data Science de Henry. El proyecto se centra en los datasets que cubren información sobre accidentes fatales en la Ciudad Autónoma de Buenos Aires entre los años 2016 y 2021. El objetivo principal de este proyecto fue realizar un análisis profundo de los datos.# Directory Details
+El proyecto "PIDA SiniestrosViales CABA" es el segundo de los proyectos integradores finales del Bootcamp de Data Science de Henry. El proyecto se centra en los datasets que cubren información sobre accidentes fatales en la Ciudad Autónoma de Buenos Aires entre los años 2016 y 2021. El objetivo principal de este proyecto fue realizar un análisis profundo de los datos.
+
+**Siniestros viales en Buenos Aires: un problema grave**
+
+Los siniestros viales son accidentes de tránsito que pueden causar daños materiales, lesiones graves o la muerte. En el contexto de una ciudad como Buenos Aires, los siniestros viales son un problema importante debido a la cantidad de vehículos y personas que circulan por la ciudad.
+
+El Observatorio de Movilidad y Seguridad Vial (OMSV) del Gobierno de la Ciudad de Buenos Aires solicita la elaboración de un proyecto de análisis de datos para generar información que permita tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, el OMSV proporciona un conjunto de datos sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021.
+
+El proyecto de análisis de datos tendrá como objetivo identificar las causas de los siniestros viales que resultan en homicidios en la Ciudad de Buenos Aires. Para ello, se analizarán los datos proporcionados por el OMSV, así como otros datos relevantes, como las estadísticas de tránsito, las condiciones de las calles y avenidas, y las características de los vehículos involucrados.
+
+Los resultados del proyecto de análisis de datos se espera que brinden información valiosa a las autoridades locales para tomar medidas que permitan reducir la cantidad de homicidios en siniestros viales en la Ciudad de Buenos Aires.
+
+Es importante tomar medidas para reducir los siniestros viales, ya que estos representan un problema grave que causa muchas muertes cada año.
+---
+
+# Detalles del Directorio:
 
 - **datasets/**
   _La carpeta datasets esta subdividida en dos sub-carpetas_
@@ -20,10 +36,13 @@ El proyecto "PIDA SiniestrosViales CABA" es el segundo de los proyectos integrad
    **originales/**
 
     **homicidios.xlsx:** Data original sobre homicidios en accidentes viales en CABA.
+  
+    **lesiones.xlsx:** Data original sobre lesiones en accidentes viales en CABA.
 
     **NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf:** información complementaria.
 
 _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados por Henry para el análisis, mientras que la subcarpeta "procesados" contiene los dataframes resultantes del proceso EDA y ETL._
+
 - **.gitignore:** Archivo para especificar archivos y directorios no rastreados que Git debería ignorar.
 
 - **EDA.ipynb:** Jupyter Notebook para Exploratory Data Analysis.
@@ -36,7 +55,7 @@ _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados po
 
 # **EDA**
 
-El EDA realizado sobre el conjunto de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires (CABA) proporciona información valiosa sobre las tendencias y factores que contribuyen a estos accidentes.
+EDA realizado sobre el conjunto de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires (CABA) proporciona información valiosa sobre las tendencias y factores que contribuyen a estos accidentes.
 
 **Principales hallazgos**
 
