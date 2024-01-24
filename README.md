@@ -45,6 +45,10 @@ _La subcarpeta "originales" incluye los datos sobre homicidios proporcionados po
 
 - **.gitignore:** Archivo para especificar archivos y directorios no rastreados que Git debería ignorar.
 
+- **Accidentes Viales CABA.pbix:** Archivo Power BI que incluye dashboard interactivo e informe.
+
+- **Dashboard_Preview.pdf:** Archivo PDF que incluye previsualización del dashboard (no interactivo).
+
 - **EDA.ipynb:** Jupyter Notebook para Exploratory Data Analysis.
 
 - **ETL.ipynb:** Jupyter Notebook que se concentra únicamente en extraer y transformar los datos necesarios en relación a la población de CABA para los años de 2016 a 2021.
